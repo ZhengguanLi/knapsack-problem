@@ -1,12 +1,12 @@
 # Subset-Sum/KnapSack Problem
 
-Solve the `Subset-Sum/KnapSack` problem of the following using `LLL/BKZ` algorithms.
+Solve the following `Subset-Sum/KnapSack` problem using [LLL](https://en.wikipedia.org/wiki/Lenstra%E2%80%93Lenstra%E2%80%93Lov%C3%A1sz_lattice_basis_reduction_algorithm)/BKZ` algorithms.
 
 ![problem description image is not supported](problem.jpg)
 
 ## Getting Started
 
-### Prerequisites
+### Usage
 
 - Set id number
 
@@ -21,11 +21,9 @@ Solve the `Subset-Sum/KnapSack` problem of the following using `LLL/BKZ` algorit
     45  Ml = M_temp.BKZ()  # use BKZ algorithm
     ```
 
-## Running the tests
+- Execute `lattice.sagews` on [SageMathCloud](http://www.sagemath.org/)
 
-Execute **lattice.sagews** on [SageMathCloud](http://www.sagemath.org/)
-
-### Test Cases
+### Runing test
 
 ID = 113383597
 
@@ -60,6 +58,6 @@ no result found
 ...
 ```
 
-## Build With
+## Built With
 
 - [SageMath](http://www.sagemath.org/http://www.sagemath.org/) - A free open-source mathematics software system
