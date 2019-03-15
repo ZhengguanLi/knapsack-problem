@@ -1,6 +1,6 @@
-# Subset-Sum/KnapSack Problem
+# KnapSack/Subset-Sum Problem
 
-Solve the following `Subset-Sum/KnapSack` problem using [LLL](https://en.wikipedia.org/wiki/Lenstra%E2%80%93Lenstra%E2%80%93Lov%C3%A1sz_lattice_basis_reduction_algorithm)/BKZ` algorithms.
+Solve the following [KnapSack](https://en.wikipedia.org/wiki/Knapsack_problem)/ Subset-Sum problem using [LLL](https://en.wikipedia.org/wiki/Lenstra%E2%80%93Lenstra%E2%80%93Lov%C3%A1sz_lattice_basis_reduction_algorithm)/BKZ algorithms.
 
 ![problem description image is not supported](problem.jpg)
 
